@@ -1,6 +1,8 @@
-# Versão 1 para aula Git
-# Versão 2 para aula Git
-# Versão 2 para aula Git - Branch "nova"
+# VersÃ£o 1 para aula Git
+# VersÃ£o 2 para aula Git
+# VersÃ£o 2 para aula Git - Branch "nova"
 
 
-# Exerc�cios e testes para a �ltima aula de Data Wrangler
+# Exercícios e testes para a última aula de Data Wrangler
+
+# Alteração realizada remotamente
